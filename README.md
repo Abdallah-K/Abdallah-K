@@ -48,4 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com)
+
 ###
