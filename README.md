@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdallah Kharouby and I'm from lebanon</p>
+<h3 align="left">My name is Abdallah Kharouby and I'm from lebanon</h3>
 
 ###
 
@@ -46,12 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
