@@ -21,7 +21,7 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://lb.linkedin.com/in/abdallah-kharoubi-814b47233)
-[![Gmail](https://img.shields.io/badge/-Email-%2312100E?style=flat-square&logo=gmail&logoColor=white)](abdallahkharoby2020@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-%2312100E?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallahkharoby2020@gmail.com)
 
 ## 📊 GitHub Stats:
 
