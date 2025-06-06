@@ -4,7 +4,7 @@
 > *"Crafting intelligent real-time systems through the lens of Computer Vision & AI."*
 
 
-<img src="img.jpg" alt="Banner" width="100%" height="320px"/>
+<img src="img.jpg" alt="Banner" height="320px"/>
 
 
 ## 💫 About Me:
